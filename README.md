@@ -1,2 +1,2 @@
 # react-guide
-learn ReactJS udemy
+learn ReactJS from udemy
